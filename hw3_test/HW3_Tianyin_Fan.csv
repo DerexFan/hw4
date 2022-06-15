@@ -1,0 +1,10 @@
+,Requirement ,Analysis ,Design ,Coding ,Unit Testing ,Integration Testing ,System Testing ,Field,Total
+Requirement ,81, , , , , , ,,81
+Analysis ,21,29, , , , , ,,50
+Design ,17,17,102, , , , ,,136
+Coding ,36,19,55,402, , , ,,512
+Unit Testing ,12,35,8,156,51, , ,,262
+Integration Testing ,7,15,7,27,- ,3, ,,59
+System Testing ,14,39,5,23,- ,- ,3,,84
+Field ,3,2,2,7,- ,- ,- ,7,21
+Total,191,156,179,615,51,3,3,7,1205
